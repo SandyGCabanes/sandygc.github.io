@@ -1,2 +1,2 @@
 # sandygc.github.io
-This is my website for my projects containing insights from data analysis and visualizations, automation projects for efficiency, learning projects re-applied from online courses, productivity tricks and many more to come.  I plan on growing as a Data Analyst, shifting careers from more than 25 years in market research.  I am interested in lifelong learning and re-application of new concepts for simulated business cases.  
+This is my website for my projects containing insights from data analysis and visualizations, automation projects for efficiency, learning projects re-applied from online courses, productivity tricks and many more to come.
